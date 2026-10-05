@@ -1,0 +1,27 @@
+* {
+	  font-family: 'Rubik';
+}
+
+img {
+	width: 300px;
+}
+
+body {
+	display: grid;
+	place-content: center;
+	place-items: center;
+	min-height: 100vh;
+	margin: 0;
+	background-color: #ffefdf;
+}
+button {
+	padding: 0.6rem 1.2rem;
+	margin: 0.4rem 0.4rem;
+	width: 8rem;
+	font-size: 1rem;
+	border-radius: 8px;
+	border: 0;
+	background: #9f7f5f;
+	color: #fff7ef;
+	cursor: pointer;
+}
